@@ -1,0 +1,1 @@
+# mineria_proyecto_final_2026_20
