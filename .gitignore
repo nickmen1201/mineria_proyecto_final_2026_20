@@ -2,3 +2,4 @@ Notebooks_ejemplo/
 Enunciado_y_CRISP-DM/
 hotel_bookings.csv
 *.csv
+__pycache__/

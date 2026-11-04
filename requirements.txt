@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scipy==1.13.0
+ydata-profiling==4.18.1
+scikit-learn==1.4.2
+imbalanced-learn==0.14.1
+xgboost==3.2.0
+scikit-optimize==0.10.2
+statsmodels==0.14.5
+streamlit==1.56.0
+openpyxl
